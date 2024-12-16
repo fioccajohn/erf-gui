@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/John Fiocca/erf-gui#readme"
-Issues = "https://github.com/John Fiocca/erf-gui/issues"
-Source = "https://github.com/John Fiocca/erf-gui"
+Documentation = "https://github.com/fioccajohn/erf-gui#readme"
+Issues = "https://github.com/fioccajohn/erf-gui/issues"
+Source = "https://github.com/fioccajohn/erf-gui"
 
 [project.scripts]
 erf-gui = "erf_gui.cli:gui"
